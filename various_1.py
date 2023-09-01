@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.set_page_config(
+        page_title="Various Services",
+)
 st.title('Various Services')
 
 center_h = st.number_input('Center of the work should be:')
