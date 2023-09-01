@@ -16,4 +16,4 @@ center_wall = space_width/2
 screw_height = (center_h + (height/2)) - from_top 
 
 st.write('The Screw Height should be ' + str(screw_height) + ' inches')
-st.write('The Center of the Wall should be ' + str(center_wall) + ' inches')
+st.write('The Center of the Wall is ' + str(center_wall) + ' inches')
